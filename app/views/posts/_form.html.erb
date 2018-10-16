@@ -1,0 +1,5 @@
+<%= form_tag posts_path, method: :post do %>
+  Digite seu tweet: <%= text_area_tag :body%> <br/>
+
+  <%= submit_tag "Save"%>
+<% end %>

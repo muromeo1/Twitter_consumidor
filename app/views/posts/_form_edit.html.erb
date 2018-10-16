@@ -1,0 +1,5 @@
+<%= form_tag post_path, method: :put do %>
+  First Name: <%= text_area_tag :body, @post[:body] %> <br/>
+
+  <%= submit_tag "Update"%>
+<% end %>
