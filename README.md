@@ -1,24 +1,12 @@
-# README
+# CONSUMIDOR
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's a Rails project to use the Twitter API in my repos.
 
-Things you may want to cover:
+You can:
+* Create a new post
+* Read your post
+* Update your post
+* Delete your post
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All this stuff, are able to use for the API.
+None of this things ahead will save in this application database, only in the API's database.
